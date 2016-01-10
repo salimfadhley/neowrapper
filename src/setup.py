@@ -34,7 +34,7 @@ setup(
         version=REVISION,
         author=PROJECT_AUTHORS,
         author_email=PROJECT_EMAILS,
-        packages=['ladygeek'],
+        packages=['neowrapper'],
         zip_safe=True,
         include_package_data=False,
         install_requires=DEPENDENCIES,
